@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Site under construction",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "",
+    "icon": "http://localhost:4000/assets/images/icon-512.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    "items": [
+    
+      
+        
+        
+        {
+            "id": "http://localhost:4000/2022/06/24/new-post.html",
+            
+            "content_text": "New beginnings.\n\n\n",
+            "content_html": "<p>New beginnings.</p>\n\n<!-- excerpt_separator -->\n",
+            "url": "http://localhost:4000/2022/06/24/new-post.html",
+            "date_published": "2022-06-24T00:00:00+05:30",
+            "date_modified": "2022-06-24T00:00:00+05:30",
+            "author": {
+                "name": ""
+            }
+        }
+        
+    
+    ]
+}
